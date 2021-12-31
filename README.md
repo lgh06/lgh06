@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Daniel Gehuan Liu , aka lgh06 / 阿欢课堂  
 I am mainly a front-end coder.  
-Me, myself, may not have many awsome projects,    
+Me, myself, may not have many awsome open source projects,    
 however, my starred projects , and coders I am following, are gorgeous.    
   
   
