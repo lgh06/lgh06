@@ -21,4 +21,4 @@ however, my starred projects , and coders I am following, are gorgeous.
   
   
   
-<img src="https://github-readme-stats.vercel.app/api?username=lgh06&show_icons=true&theme=dark" style="height:120px" />
+<img src="https://github-readme-stats.vercel.app/api?username=lgh06&show_icons=true&theme=dark" style="height:150px" />
