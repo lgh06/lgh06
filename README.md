@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Daniel Gehuan Liu , aka lgh06 / 阿欢课堂  
-I am mainly a front-end coder.
-Me, myself, may not have many awsome projects,  
+I am mainly a front-end coder.  
+Me, myself, may not have many awsome projects,    
 however, my starred projects , and coders I am following, are gorgeous.    
   
   
