@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 ## Daniel Gehuan Liu , aka lgh06 / 阿欢课堂  
 I am mainly a front-end coder.
 Me, myself, may not have many awsome projects,  
-however, my starred projects , and coders I am following, are gorgeous.  
-[![lgh06's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgh06)](https://github.com/anuraghazra/github-readme-stats)
+however, my starred projects , and coders I am following, are gorgeous.    
+  
+  
+  
+[![lgh06's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgh06&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
