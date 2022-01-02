@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-## Daniel Gehuan Liu , aka lgh06 / 阿欢课堂  
+-->  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lgh06&show_icons=true&theme=dark&hide_title=true" style="height:160px" />
+
+### Daniel Gehuan Liu , aka lgh06 / 阿欢课堂  
 I am mainly a front-end coder.  
 Me, myself, may not have many awsome open source projects,    
 however, my starred projects , and coders I am following, are gorgeous.    
   
-  
-  
-<img src="https://github-readme-stats.vercel.app/api?username=lgh06&show_icons=true&theme=dark" style="height:150px" />
+
