@@ -21,4 +21,4 @@ I am mainly a front-end coder.
 Me, myself, may not have many awsome open source projects,    
 however, my starred projects , and coders I am following, are gorgeous.    
   
-<p align="left"> Visitor count<br> <img src="https://profile-counter.glitch.me/wenerme/count.svg" /></p>
+<p align="left"> Visitor count<br> <img src="https://profile-counter.glitch.me/lgh06/count.svg" /></p>
